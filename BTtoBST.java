@@ -1,3 +1,6 @@
+/** Given a binary tree, convert it into a binary search tree 
+ * which has the exaclty same shape as the original binary tree
+ */
 import java.util.Collections;
 import java.util.LinkedList;
 
